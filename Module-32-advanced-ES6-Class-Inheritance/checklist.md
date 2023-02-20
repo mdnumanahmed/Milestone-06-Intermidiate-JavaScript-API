@@ -59,3 +59,40 @@ Common Interview questions ON THIS MODULE
 7. What does destructing do in es6?
 8. Is optional chaining is same as ternary operator?
 9. What do you mean by dot notation and bracket notation? When should you use dot notation or bracket notation?
+
+
+আজকে কোন কোন জিনিস খেয়াল করবে 
+
+১. nested অবজেক্ট (অর্থাৎ একটা অবজেক্ট এর প্রপার্টি এর মধ্যেও যে অবজেক্ট থাকতে পারে। আবার সেই অবজেক্ট এর প্রপার্টি এর মধ্যেও যে অবজেক্ট থাকতে পারে। সেটা খেয়াল করতে হবে )
+
+২. ডট এর আগে যে প্রশ্নবোধক চিহ্ন দিয়ে যে অপশনাল চেইনিং করা যায়। সেটা একটু খেয়াল করতে হবে। 
+
+
+
+যে জিনিসগুলা এখন না লাগলেও দুই-তিন সপ্তাহ পরে লাগবে। তখন আবার এই জিনিসগুলো নিয়ে আলোচনা করবো। তবে এখন একটু দেখে রাখলে তখন ইজি লাগবে। 
+
+৩. array এর মধ্যে map কিভাবে করতে হয়। 
+
+৪. array এর মধ্যে forEach কিভাবে করে। এবং map এর forEach এর মধ্যে ডিফারেন্স কি
+
+৫. filter জিনিসটা দিয়ে কি করা হয়। ফিল্টার যে array রিটার্ন করে সেটা ফিউচারের জন্য খেয়াল রাখতে হবে 
+
+৬. find এবং filter এর মধ্যে ডিফারেন্স কি ? 
+
+৭. অবজেক্ট এর সিম্পল destructuring কিভাবে করে ?
+
+৮. array এর সিম্পল destructuring কিভাবে করে ?
+
+
+
+যে জিনিসগুলো এখন জাস্ট ধারণা রেখে দাও। বুঝতে পারলে ভালো। না বুঝতে পারলেও কোন সমস্যা নাই। আমাদের এই কোর্স এ তেমন লাগবে না। তবে মাঝে মধ্যে ইন্টারভিউতে লেগে যেতে পারে। বা কিছুদিন পরে লেগে যেতেও পারে। 
+
+৯. class কিভাবে ডিক্লেয়ার করে 
+
+১০. inheritance কি জিনিস 
+
+১১. prototypical inheritance এর কনসেপ্টটা কি (এইটা মাঝে মধ্যে ইন্টারভিউতে জিজ্ঞেস করে বসে)
+
+আজকের practice টাস্কের লিঙ্কঃ 
+
+https://drive.google.com/file/d/1XcvIBe_rJlr6GY2rTnHlbIluTABXNhp7/view?usp=sharing
