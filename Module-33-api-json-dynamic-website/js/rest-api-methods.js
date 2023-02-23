@@ -50,10 +50,4 @@ PUT = Create a new resource or replace existing resource
 POST = Create a new resources
 PATCH = Update only existing resource.
 
-
-
-
-
-
-
 */
