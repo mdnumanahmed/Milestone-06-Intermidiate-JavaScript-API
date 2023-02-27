@@ -59,7 +59,7 @@ const displayPhones = (phones, item) => {
     phoneContainer.appendChild(item);
   });
 
-  // stop spinner
+  // stop spinner after getting data on ui
   toggleSpinner(false);
 
   // no phone found msg
@@ -93,7 +93,7 @@ const showDetails = async id => {
 
 const searchField = document.getElementById("searchField");
 searchField.addEventListener("keypress", (e) => {
-  // start spinner
+  // start spinner inside search function 
   toggleSpinner(true);
   if (e.code === "Enter") {
     e.preventDefault();
@@ -104,10 +104,12 @@ searchField.addEventListener("keypress", (e) => {
 });
 
 showMoreBtn.onclick = () => {
+  // item variable from global scope 
   item = item + 3;
   loadPhones(searchText, item);
 };
 
+// Spinner Function 
 const toggleSpinner = (isLoading) => {
   const loader = document.getElementById("loader");
   if (isLoading) {
